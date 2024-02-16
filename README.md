@@ -1,5 +1,5 @@
 # ytdlp-Clips-Downloader
-*a simple yt-dlp script that downloads cut intervals of a video rather than the whole video using --postprocessor-args and ffmpeg*
+a simple yt-dlp script that downloads cut intervals of a video rather than the whole video using --postprocessor-args and ffmpeg
 
 ## Prequistes 
 ```
